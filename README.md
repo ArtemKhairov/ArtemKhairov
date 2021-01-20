@@ -1,4 +1,4 @@
-<img src="./src/imgConponent.png" width="100%">
+<img src="./src/img/Component.png" width="100%">
 
 # Привет
 ## Меня зовут Артём
