@@ -1,16 +1,16 @@
-<img src="./src/img/Component.png" width="100%">
+<img src="./src/img/Component.png" width="100%"/>
 
-# Привет
-## Меня зовут Артём
+### Привет, меня зовут Артём
+
 ## Я Junior Frontend разработчик
 
-- Изучаю React
-- Буду рад дельному совету
-- Работаю над проектом [тык][social]
-- Работаю над проектом [тык](https://github.com/ArtemKhairov/social)
+- 💻 Начинающий веб разработчик
+- ☀️ Преисполняюсь в своём познании React 
+- 👯 Буду рад любому сотрудничеству и дельному совету
+- 🔨 Сейчас работаю над проектом [Социальной Сети (React+Redux)][social] (<strong> Обязательно к просмотру!</strong> )
 
 
-### Языки и инструменты
+### Языки и инструменты:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
@@ -29,5 +29,31 @@
 
 <br/>
 
+### Смотрю в будущее
 
-[social]:https://github.com/ArtemKhairov/social
+Заинтересован  в:
+
+-[Нейросети/машинное обучение][python]
+
+-[Django][django]
+
+-[A progressive Node.js framework (Nest.js)][nest]
+
+
+### Связаться со мной:
+
+HeadHunter <br/>
+https://krasnoyarsk.hh.ru/resume/b8aa4595ff087f8b060039ed1f6c683241544a
+
+
+<br />
+
+### <strong>P.S.</strong>
+Открыт к новым челленджам и интересным задачам!
+
+[python]: https://www.python.org/
+[django]: https://www.djangoproject.com/
+[nest]: https://nestjs.com/
+[social]: https://github.com/ArtemKhairov/social
+
+
