@@ -7,7 +7,7 @@
 - 💻 Начинающий веб разработчик
 - ☀️ Преисполняюсь в своём познании React 
 - 👯 Буду рад любому сотрудничеству и дельному совету
-- 🔨 Сейчас работаю над проектом [Социальной Сети (React+Redux)][social] (<strong> Обязательно к просмотру!</strong> )
+- 🔨 Сейчас работаю над проектом [Социальной Сети (React+Redux, redux-thunk)][social] (<strong> Обязательно к просмотру!</strong> )
 
 
 ## Yotube videva
@@ -40,8 +40,6 @@
 
 -[Django][django]
 
--[A progressive Node.js framework (Nest.js)][nest]
-
 
 ### Связаться со мной:
 
@@ -56,7 +54,6 @@ https://krasnoyarsk.hh.ru/resume/b8aa4595ff087f8b060039ed1f6c683241544a
 
 [python]: https://www.python.org/
 [django]: https://www.djangoproject.com/
-[nest]: https://nestjs.com/
 [social]: https://github.com/ArtemKhairov/social
 
 
