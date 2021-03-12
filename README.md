@@ -40,6 +40,10 @@
 
 -[Django][django]
 
+-[Dart][dart]
+
+-[Flutter(Мобильные приложения)][flutter]
+
 
 ### Связаться со мной:
 
@@ -55,5 +59,6 @@ https://krasnoyarsk.hh.ru/resume/b8aa4595ff087f8b060039ed1f6c683241544a
 [python]: https://www.python.org/
 [django]: https://www.djangoproject.com/
 [social]: https://github.com/ArtemKhairov/social
-
+[dart]:https://dart.dev/
+[flutter]:https://flutter.dev/
 
