@@ -36,11 +36,18 @@
 
 Заинтересован  в:
 
+-[ReactNative][rn]
+
+-[Java][java]
+
+-[Kotlin][kotlin]
+<!---
 -[Django][django]
 
 -[Dart][dart]
 
 -[Flutter(Мобильные приложения)][flutter]
+--->
 
 
 ### Связаться со мной:
@@ -54,6 +61,9 @@ https://krasnoyarsk.hh.ru/resume/b8aa4595ff087f8b060039ed1f6c683241544a
 ### <strong>P.S.</strong>
 Открыт к новым челленджам и интересным задачам!
 
+[kotlin]: https://kotlinlang.org/
+[java]: https://www.java.com/en/
+[rn]: https://reactnative.dev/
 [python]: https://www.python.org/
 [django]: https://www.djangoproject.com/
 [social]: https://github.com/ArtemKhairov/social
