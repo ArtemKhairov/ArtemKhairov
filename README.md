@@ -19,7 +19,7 @@ I build products end to end: interfaces in **React, React Native and Flutter**, 
 |                    |                                                                                     |
 | :----------------- | :---------------------------------------------------------------------------------- |
 | **Frontend**       | TypeScript · React 19 · Next.js · Vite                                              |
-| **Mobile**         | React Native (New Architecture, Expo) · Flutter / Dart                              |
+| **Mobile**         | React Native (Expo) · Flutter / Dart                              |
 | **Backend**        | Java · Spring Boot · Node.js · PostgreSQL · Redis                                   |
 | **AI engineering** | Claude Code & Agent SDK · MCP servers · OpenAI / Anthropic APIs · Vercel AI SDK · RAG · evals |
 | **Automation**     | Python · n8n · GitLab CI · GitHub Actions · Docker                                  |
