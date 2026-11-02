@@ -1,50 +1,29 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Artem Khairov. Product engineer for web, mobile and backend: React, React Native, Python. Now wiring AI agents into real codebases and CI." src="./assets/header-light.svg" width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bae6fd,100:7dd3fc&height=120&section=header" width="100%"/>
+<br>
 
-# Artem Khairov
-### Software Developer · AI-driven Engineering
+I build products end to end: interfaces in **React, React Native and Flutter**, services in **Java and Spring Boot**. Most of my 2026 goes into wiring AI agents into real codebases. That means giving them context, guardrails and a CI loop, so their work lands as a merge request a human can review.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0369a1&center=true&vCenter=true&width=500&lines=React+%2F+React+Native+%2F+Flutter+%2F+Java;AI+Agents+%26+Codegen+Pipelines;Building+the+future+of+dev+tooling" alt="Typing SVG" />
+### What I'm working on
 
-</div>
+- **Coding agents in repos and CI.** Context, tools, evals and quality gates for agents working in a large frontend monorepo.
+- **Code generation.** Pipelines that turn specs and designs into typed, tested code.
+- **Scalable frontend.** TypeScript architecture and i18n for multi-package web and mobile apps.
 
----
+### Stack
 
-## ⚡ About
+|                    |                                                                                     |
+| :----------------- | :---------------------------------------------------------------------------------- |
+| **Frontend**       | TypeScript · React 19 · Next.js · Vite                                              |
+| **Mobile**         | React Native (New Architecture, Expo) · Flutter / Dart                              |
+| **Backend**        | Java · Spring Boot · Node.js · PostgreSQL · Redis                                   |
+| **AI engineering** | Claude Code & Agent SDK · MCP servers · OpenAI / Anthropic APIs · Vercel AI SDK · RAG · evals |
+| **Automation**     | Python · n8n · GitLab CI · GitHub Actions · Docker                                  |
 
-Frontend engineer with deep roots in **React**, **React Native**, and **Flutter**.
-In 2026, my primary focus has shifted toward **AI-assisted development** —
-building LLM coding agents, integrating them into repositories, and designing
-codegen pipelines that automate engineering workflows.
+### Elsewhere
 
----
-
-## 🎯 Focus in 2026
-
-- 🤖 **AI Coding Agents** — deploying LLM agents into CI/CD and repo workflows
-- ⚙️ **Code Generation** — tooling and task automation for dev teams
-- 🏗️ **Scalable Frontend** — architecture with TypeScript & React
-
----
-
-## Tech Stack
-
-**Core** — TypeScript · React · Next.js · React Native · Flutter · Java
-
-**AI & Tools** — LLM Agents · Codegen · GitHub Actions · Python · Docker
-
-**Other** — Node.js · Firebase · Redis · Vite · Figma
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-artemkhairov-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/artemkhairov)
-[![GitHub](https://img.shields.io/badge/GitHub-@artemkhairov-181717?style=flat-square&logo=github)](https://github.com/artemkhairov)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:bae6fd,100:7dd3fc&height=100&section=footer" width="100%"/>
+[LinkedIn](https://linkedin.com/in/artemkhairov) &nbsp;·&nbsp; [GitHub](https://github.com/artemkhairov)
